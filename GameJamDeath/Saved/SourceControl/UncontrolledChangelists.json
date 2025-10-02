@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/keish/OneDrive/Documents/Games development/Git Projects/GameJamDeath/GameJamDeath/Content/SideScroller.umap",
+				"C:/Users/keish/OneDrive/Documents/Games development/Git Projects/GameJamDeath/GameJamDeath/Content/Sprites/Blue_witch/B_witch_run1.uasset",
+				"C:/Users/keish/OneDrive/Documents/Games development/Git Projects/GameJamDeath/GameJamDeath/Content/Sprites/Blue_witch/B_witch_attack.uasset",
+				"C:/Users/keish/OneDrive/Documents/Games development/Git Projects/GameJamDeath/GameJamDeath/Content/Sprites/Blue_witch/B_witch_charge.uasset",
+				"C:/Users/keish/OneDrive/Documents/Games development/Git Projects/GameJamDeath/GameJamDeath/Content/Sprites/Blue_witch/B_witch_death.uasset",
+				"C:/Users/keish/OneDrive/Documents/Games development/Git Projects/GameJamDeath/GameJamDeath/Content/Sprites/Blue_witch/B_witch_idle.uasset",
+				"C:/Users/keish/OneDrive/Documents/Games development/Git Projects/GameJamDeath/GameJamDeath/Content/Sprites/Blue_witch/B_witch_run.uasset",
+				"C:/Users/keish/OneDrive/Documents/Games development/Git Projects/GameJamDeath/GameJamDeath/Content/Sprites/Blue_witch/B_witch_take_damage.uasset",
+				"C:/Users/keish/OneDrive/Documents/Games development/Git Projects/GameJamDeath/GameJamDeath/Content/Sprites/Background/side-scroller_long_simple_background1.uasset",
+				"C:/Users/keish/OneDrive/Documents/Games development/Git Projects/GameJamDeath/GameJamDeath/Content/Sprites/Background/side-scroller_tileset_elements_Main_File_1.uasset",
+				"C:/Users/keish/OneDrive/Documents/Games development/Git Projects/GameJamDeath/GameJamDeath/Content/Sprites/Background/side-scroller_tileset_elements_Main_File_1_TileSet.uasset",
+				"C:/Users/keish/OneDrive/Documents/Games development/Git Projects/GameJamDeath/GameJamDeath/Content/Sprites/Blue_witch/B_witch_idle_Sprite_0.uasset",
+				"C:/Users/keish/OneDrive/Documents/Games development/Git Projects/GameJamDeath/GameJamDeath/Content/Sprites/Blue_witch/B_witch_idle_Sprite_1.uasset",
+				"C:/Users/keish/OneDrive/Documents/Games development/Git Projects/GameJamDeath/GameJamDeath/Content/Sprites/Blue_witch/B_witch_idle_Sprite_2.uasset",
+				"C:/Users/keish/OneDrive/Documents/Games development/Git Projects/GameJamDeath/GameJamDeath/Content/Sprites/Blue_witch/B_witch_idle_Sprite_3.uasset",
+				"C:/Users/keish/OneDrive/Documents/Games development/Git Projects/GameJamDeath/GameJamDeath/Content/Sprites/Blue_witch/B_witch_idle_Sprite_4.uasset",
+				"C:/Users/keish/OneDrive/Documents/Games development/Git Projects/GameJamDeath/GameJamDeath/Content/Sprites/Blue_witch/B_witch_run_Sprite_8.uasset",
+				"C:/Users/keish/OneDrive/Documents/Games development/Git Projects/GameJamDeath/GameJamDeath/Content/Sprites/Blue_witch/B_witch_idle_Sprite_6.uasset",
+				"C:/Users/keish/OneDrive/Documents/Games development/Git Projects/GameJamDeath/GameJamDeath/Content/Sprites/Blue_witch/B_witch_run_Sprite_0.uasset",
+				"C:/Users/keish/OneDrive/Documents/Games development/Git Projects/GameJamDeath/GameJamDeath/Content/Sprites/Blue_witch/B_witch_run_Sprite_14.uasset",
+				"C:/Users/keish/OneDrive/Documents/Games development/Git Projects/GameJamDeath/GameJamDeath/Content/Sprites/Blue_witch/B_witch_run_Sprite_2.uasset",
+				"C:/Users/keish/OneDrive/Documents/Games development/Git Projects/GameJamDeath/GameJamDeath/Content/Sprites/Blue_witch/B_witch_run_Sprite_12.uasset",
+				"C:/Users/keish/OneDrive/Documents/Games development/Git Projects/GameJamDeath/GameJamDeath/Content/Sprites/Blue_witch/B_witch_run_Sprite_4.uasset",
+				"C:/Users/keish/OneDrive/Documents/Games development/Git Projects/GameJamDeath/GameJamDeath/Content/Sprites/Blue_witch/B_witch_run_Sprite_10.uasset",
+				"C:/Users/keish/OneDrive/Documents/Games development/Git Projects/GameJamDeath/GameJamDeath/Content/Sprites/Blue_witch/B_witch_run_Sprite_6.uasset",
+				"C:/Users/keish/OneDrive/Documents/Games development/Git Projects/GameJamDeath/GameJamDeath/Content/Sprites/Blue_witch/B_witch_idle1.uasset"
+			]
+		}
+	]
+}
