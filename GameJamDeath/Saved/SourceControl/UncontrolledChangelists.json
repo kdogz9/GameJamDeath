@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Freddie/Documents/GitHub/GameJamDeath/GameJamDeath/Content/Sprites/Background/side-scroller_tileset_elements_Main_File_1_TileMap1.uasset",
+				"C:/Users/Freddie/Documents/GitHub/GameJamDeath/GameJamDeath/Content/Sprites/Background/side-scroller_tileset_elements_Main_File_1_TileSet.uasset",
+				"C:/Users/Freddie/Documents/GitHub/GameJamDeath/GameJamDeath/Content/Levels/SideScroller.umap",
 				"C:/Users/keish/OneDrive/Documents/Games development/Git Projects/GameJamDeath/GameJamDeath/Content/SideScroller.umap",
 				"C:/Users/keish/OneDrive/Documents/Games development/Git Projects/GameJamDeath/GameJamDeath/Content/Sprites/Blue_witch/B_witch_run1.uasset",
 				"C:/Users/keish/OneDrive/Documents/Games development/Git Projects/GameJamDeath/GameJamDeath/Content/Sprites/Blue_witch/B_witch_attack.uasset",
